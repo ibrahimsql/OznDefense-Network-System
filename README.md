@@ -11,7 +11,7 @@ Rust programlama dili 🦀
 cargo ve rustc araçları
 Diğer bağımlılıklar için Cargo.toml dosyasına bakın
 Adımlar
-Rust'u Kurun: Rust'u resmi sitesinden indirip yükleyin.
+[Rust Resmi Sitesinden Rustı İndirin](https://www.rust-lang.org/)n.
 
 ### Depoyu Klonlayın:
 
