@@ -122,5 +122,5 @@ Lisans
 Bu proje MIT Lisansı altında lisanslanmıştır. 📜
 
 ## İletişim
-Daha fazla bilgi veya destek için benimle iletişime geçebilirsiniz. 📧
+Daha fazla bilgi veya destek için [Benimle](https://www.instagram.com/ibrahimsql/)iletişime geçebilirsiniz. 📧
 
