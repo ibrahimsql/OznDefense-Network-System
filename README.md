@@ -113,12 +113,12 @@ cargo run -- --mode deauth --interface wlan0 --target_bssid AA:BB:CC:DD:EE:FF --
 Katkıda Bulunma
 Katkıda bulunmak istiyorsanız, lütfen aşağıdaki adımları takip edin:
 
-## Fork depoyu. 🍴
+## [Fork] (https://github.com/ibrahimsql/OznDefense-Network-System/)fork depoyu. 🍴
 Yeni bir dal oluşturun (git checkout -b feature-branch).
 Değişikliklerinizi yapın ve test edin. 🧪
 Değişikliklerinizi commit edin ve push yapın (git push origin feature-branch). 🚀
-Bir Pull Request oluşturun. 📥
-Lisans
+[Pull Request Oluşturun](https://github.com/ibrahimsql/OznDefense-Network-System/pulls). 📥
+[LICENSE](LICENSE)
 Bu proje MIT Lisansı altında lisanslanmıştır. 📜
 
 ## İletişim
